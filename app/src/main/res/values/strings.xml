@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">بن يزن</string>
+    <string name="app_subtitle">مطحنة بن ومشاريب طازجة</string>
+    <string name="sign_in_google">تسجيل الدخول بحساب Google</string>
+    <string name="sign_in_subtitle">سجل دخولك لطلب البن المطحون والمشاريب الطازجة ومتابعة حالة طلبك لحظياً</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="logo_content_description">شعار بن يزن للقهوة</string>
+    <string name="notification_channel_id">bon_yazan_orders_channel</string>
+    <string name="notification_channel_name">إشعارات طلبات بن يزن</string>
+    <string name="notification_channel_desc">تنبيهات الطلبات الجديدة وجاهزية الاستلام في محل بن يزن</string>
+    <string name="currency_egp">ج.م</string>
+    <string name="tab_menu">المنيو</string>
+    <string name="tab_cart">السلة</string>
+    <string name="tab_my_orders">طلباتي</string>
+    <string name="tab_owner_orders">الطلبات</string>
+    <string name="tab_owner_menu">إدارة المنيو</string>
+    <string name="tab_owner_cashier">الكاشير</string>
+</resources>

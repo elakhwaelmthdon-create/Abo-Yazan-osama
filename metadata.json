@@ -1,0 +1,6 @@
+{
+  "name": "بن يزن",
+  "description": "تطبيق طلبات وكاشير مطحنة ومقهى بن يزن للبن المطحون والمشاريب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
